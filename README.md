@@ -67,8 +67,7 @@ jupyter notebook
 
 ## 👤 Author
 
-**Naif** — BSc Data Science | Aspiring ML/AI Engineer  
-[GitHub](https://github.com/bynaif)
+**Naif** — Cool Data Science Undergrad
 
 ---
 
